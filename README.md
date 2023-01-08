@@ -7,4 +7,6 @@ This will work with v1 and v2 versions of nh-context/keyboard so any script requ
 ## How to use
 
 - Put resource in and ensure *after* ox_lib
-- Completely remove `nh-context` and `nh-keyboard` from server
+- Completely remove `nh-context` from server
+
+# WIP - Still working on `nh-keyboard` in this
